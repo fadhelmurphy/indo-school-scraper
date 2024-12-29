@@ -399,14 +399,6 @@
         "documentation": {}
     },
     {
-        "label": "DataProcessor",
-        "importPath": "services.data_processor",
-        "description": "services.data_processor",
-        "isExtraImport": true,
-        "detail": "services.data_processor",
-        "documentation": {}
-    },
-    {
         "label": "Flask",
         "importPath": "flask",
         "description": "flask",
@@ -775,24 +767,6 @@
         "description": "src.api.utils.validators",
         "peekOfCode": "VALID_TYPES = [\"provinsi\", \"kabupaten\", \"kecamatan\", \"school\"]\ndef validate_payload(payload: Dict[str, Any]) -> None:\n    # Check required fields\n    for field in REQUIRED_FIELDS:\n        if field not in payload:\n            raise ValidationError(f\"Missing required field: {field}\")\n    # Validate data type\n    if payload[\"type\"] not in VALID_TYPES:\n        raise ValidationError(f\"Invalid type. Must be one of: {', '.join(VALID_TYPES)}\")\n    # Validate job_id format",
         "detail": "src.api.utils.validators",
-        "documentation": {}
-    },
-    {
-        "label": "processor",
-        "kind": 5,
-        "importPath": "src.api.api_test",
-        "description": "src.api.api_test",
-        "peekOfCode": "processor = DataProcessor(\n    project_id=\"idf-corp-dev\",\n    gcs_bucket=\"src_ext_data\",\n    gcs_folder=\"kemdikbud_satpen\",\n    job_id=20241227163638,\n    business_id=\"satpen\",\n    data_type=\"kabupaten\",\n    data_id=None,\n    district_cd=None,\n)",
-        "detail": "src.api.api_test",
-        "documentation": {}
-    },
-    {
-        "label": "result",
-        "kind": 5,
-        "importPath": "src.api.api_test",
-        "description": "src.api.api_test",
-        "peekOfCode": "result = processor.process()",
-        "detail": "src.api.api_test",
         "documentation": {}
     },
     {
