@@ -1,19 +1,19 @@
 repos:
-  # Hook untuk merapikan kode Python menggunakan Black
+  # Hook buat rapiin kode python lo
   - repo: https://github.com/psf/black
     rev: 23.9.1
     hooks:
       - id: black
         stages: [commit]
 
-  # Hook tambahan untuk memeriksa file Python agar sesuai standar Flake8
+  # Hook buat ngecek file Python udah sesuai standar Flake8
   - repo: https://github.com/pycqa/flake8
-    rev: 6.1.0  # Versi terbaru Flake8
+    rev: 6.1.0 
     hooks:
       - id: flake8
-        stages: [commit]  # Periksa hanya file yang di-commit
+        stages: [commit] 
 
-  # Hook untuk memastikan commit message sesuai dengan konvensi tertentu
+  # Hook buat ngecek commit message lo
   - repo: https://github.com/jorisroovers/gitlint
     rev: v0.18.0
     hooks:
