@@ -1,5 +1,4 @@
 from typing import Dict, Any, Optional
-from google.cloud import storage
 from utils.file_naming import generate_filename
 from data_fetchers.fetcher_factory import create_fetcher
 

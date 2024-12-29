@@ -264,14 +264,6 @@
         "documentation": {}
     },
     {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
         "label": "csv",
         "kind": 6,
         "isExtraImport": true,
@@ -319,22 +311,6 @@
         "description": "utils.api_client",
         "isExtraImport": true,
         "detail": "utils.api_client",
-        "documentation": {}
-    },
-    {
-        "label": "storage",
-        "importPath": "google.cloud",
-        "description": "google.cloud",
-        "isExtraImport": true,
-        "detail": "google.cloud",
-        "documentation": {}
-    },
-    {
-        "label": "bigquery",
-        "importPath": "google.cloud",
-        "description": "google.cloud",
-        "isExtraImport": true,
-        "detail": "google.cloud",
         "documentation": {}
     },
     {
@@ -396,6 +372,22 @@
         "importPath": "logging",
         "description": "logging",
         "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "MaxRetriesExceededError",
+        "importPath": "src.api.utils.exceptions",
+        "description": "src.api.utils.exceptions",
+        "isExtraImport": true,
+        "detail": "src.api.utils.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "RetryableError",
+        "importPath": "src.api.utils.exceptions",
+        "description": "src.api.utils.exceptions",
+        "isExtraImport": true,
+        "detail": "src.api.utils.exceptions",
         "documentation": {}
     },
     {
@@ -532,6 +524,14 @@
         "description": "rate_limiter",
         "isExtraImport": true,
         "detail": "rate_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "bigquery",
+        "importPath": "google.cloud",
+        "description": "google.cloud",
+        "isExtraImport": true,
+        "detail": "google.cloud",
         "documentation": {}
     },
     {
