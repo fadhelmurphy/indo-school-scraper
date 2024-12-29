@@ -1,0 +1,995 @@
+[
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Set",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "csv",
+        "description": "csv",
+        "detail": "csv",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "importPath": "utils.api_client",
+        "description": "utils.api_client",
+        "isExtraImport": true,
+        "detail": "utils.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "importPath": "utils.api_client",
+        "description": "utils.api_client",
+        "isExtraImport": true,
+        "detail": "utils.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "importPath": "utils.api_client",
+        "description": "utils.api_client",
+        "isExtraImport": true,
+        "detail": "utils.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "importPath": "utils.api_client",
+        "description": "utils.api_client",
+        "isExtraImport": true,
+        "detail": "utils.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "google.cloud",
+        "description": "google.cloud",
+        "isExtraImport": true,
+        "detail": "google.cloud",
+        "documentation": {}
+    },
+    {
+        "label": "bigquery",
+        "importPath": "google.cloud",
+        "description": "google.cloud",
+        "isExtraImport": true,
+        "detail": "google.cloud",
+        "documentation": {}
+    },
+    {
+        "label": "generate_filename",
+        "importPath": "utils.file_naming",
+        "description": "utils.file_naming",
+        "isExtraImport": true,
+        "detail": "utils.file_naming",
+        "documentation": {}
+    },
+    {
+        "label": "create_fetcher",
+        "importPath": "data_fetchers.fetcher_factory",
+        "description": "data_fetchers.fetcher_factory",
+        "isExtraImport": true,
+        "detail": "data_fetchers.fetcher_factory",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.parse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "DataProcessor",
+        "importPath": "services.data_processor",
+        "description": "services.data_processor",
+        "isExtraImport": true,
+        "detail": "services.data_processor",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Province",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Kabupaten",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Kecamatan",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "School",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Province",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Kabupaten",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Kecamatan",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "School",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Province",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Kabupaten",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Kecamatan",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "School",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "importPath": "rate_limiter",
+        "description": "rate_limiter",
+        "isExtraImport": true,
+        "detail": "rate_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "importPath": "rate_limiter",
+        "description": "rate_limiter",
+        "isExtraImport": true,
+        "detail": "rate_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PARAMS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "make_request",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.error",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.error",
+        "description": "urllib.error",
+        "detail": "urllib.error",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "importPath": "api_client",
+        "description": "api_client",
+        "isExtraImport": true,
+        "detail": "api_client",
+        "documentation": {}
+    },
+    {
+        "label": "DataWriter",
+        "importPath": "data_writer",
+        "description": "data_writer",
+        "isExtraImport": true,
+        "detail": "data_writer",
+        "documentation": {}
+    },
+    {
+        "label": "BigQueryClient",
+        "importPath": "bigquery_client",
+        "description": "bigquery_client",
+        "isExtraImport": true,
+        "detail": "bigquery_client",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "BaseFetcher",
+        "kind": 6,
+        "importPath": "src.api.data_fetchers.base_fetcher",
+        "description": "src.api.data_fetchers.base_fetcher",
+        "peekOfCode": "class BaseFetcher(ABC):\n    @abstractmethod\n    def fetch(self, data_id: str = None) -> List[Dict[str, Any]]:\n        pass\n    @abstractmethod\n    def to_csv(self, data: List[Dict[str, Any]]) -> str:\n        pass",
+        "detail": "src.api.data_fetchers.base_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "create_fetcher",
+        "kind": 2,
+        "importPath": "src.api.data_fetchers.fetcher_factory",
+        "description": "src.api.data_fetchers.fetcher_factory",
+        "peekOfCode": "def create_fetcher(data_type: str) -> BaseFetcher:\n    fetchers = {\n        \"provinsi\": ProvinceFetcher,\n        \"kabupaten\": KabupatenFetcher,\n        \"kecamatan\": KecamatanFetcher,\n        \"school\": SchoolFetcher,\n    }\n    fetcher_class = fetchers.get(data_type)\n    if not fetcher_class:\n        raise ValueError(f\"Invalid data type: {data_type}\")",
+        "detail": "src.api.data_fetchers.fetcher_factory",
+        "documentation": {}
+    },
+    {
+        "label": "KabupatenFetcher",
+        "kind": 6,
+        "importPath": "src.api.data_fetchers.kabupaten_fetcher",
+        "description": "src.api.data_fetchers.kabupaten_fetcher",
+        "peekOfCode": "class KabupatenFetcher(BaseFetcher):\n    def __init__(self):\n        self.api_client = APIClient()\n    def fetch(self, province_id: str = None) -> List[Dict[str, Any]]:\n        if not province_id:\n            raise ValueError(\"province_id is required for fetching kabupaten data\")\n        return self.api_client.get_kabupatens(province_id)\n    def to_csv(self, data: List[Dict[str, Any]]) -> str:\n        output = io.StringIO()\n        writer = csv.DictWriter(",
+        "detail": "src.api.data_fetchers.kabupaten_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "KecamatanFetcher",
+        "kind": 6,
+        "importPath": "src.api.data_fetchers.kecamatan_fetcher",
+        "description": "src.api.data_fetchers.kecamatan_fetcher",
+        "peekOfCode": "class KecamatanFetcher(BaseFetcher):\n    def __init__(self):\n        self.api_client = APIClient()\n    def fetch(self, kabupaten_id: str = None) -> List[Dict[str, Any]]:\n        if not kabupaten_id:\n            raise ValueError(\"kabupaten_id is required for fetching kecamatan data\")\n        return self.api_client.get_kecamatans(kabupaten_id)\n    def to_csv(self, data: List[Dict[str, Any]]) -> str:\n        output = io.StringIO()\n        writer = csv.DictWriter(",
+        "detail": "src.api.data_fetchers.kecamatan_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "ProvinceFetcher",
+        "kind": 6,
+        "importPath": "src.api.data_fetchers.province_fetcher",
+        "description": "src.api.data_fetchers.province_fetcher",
+        "peekOfCode": "class ProvinceFetcher(BaseFetcher):\n    def __init__(self):\n        self.api_client = APIClient()\n    def fetch(self, data_id: str = None) -> List[Dict[str, Any]]:\n        return self.api_client.get_provinces()\n    def to_csv(self, data: List[Dict[str, Any]]) -> str:\n        output = io.StringIO()\n        writer = csv.DictWriter(\n            output, fieldnames=[\"kode_wilayah\", \"nama\"], extrasaction=\"ignore\"\n        )",
+        "detail": "src.api.data_fetchers.province_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "SchoolFetcher",
+        "kind": 6,
+        "importPath": "src.api.data_fetchers.school_fetcher",
+        "description": "src.api.data_fetchers.school_fetcher",
+        "peekOfCode": "class SchoolFetcher(BaseFetcher):\n    def __init__(self):\n        self.api_client = APIClient()\n    def fetch(self, kecamatan_id: str = None) -> List[Dict[str, Any]]:\n        if not kecamatan_id:\n            raise ValueError(\"kecamatan_id is required for fetching school data\")\n        return self.api_client.get_schools(kecamatan_id)\n    def to_csv(self, data: List[Dict[str, Any]]) -> str:\n        output = io.StringIO()\n        writer = csv.DictWriter(",
+        "detail": "src.api.data_fetchers.school_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "DataProcessor",
+        "kind": 6,
+        "importPath": "src.api.services.data_processor",
+        "description": "src.api.services.data_processor",
+        "peekOfCode": "class DataProcessor:\n    def __init__(\n        self,\n        project_id: str,\n        gcs_bucket: str,\n        gcs_folder: str,\n        job_id: int,\n        business_id: str,\n        data_type: str,\n        data_id: Optional[str] = None,",
+        "detail": "src.api.services.data_processor",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "kind": 6,
+        "importPath": "src.api.utils.api_client",
+        "description": "src.api.utils.api_client",
+        "peekOfCode": "class APIClient:\n    def __init__(self):\n        self.base_url = \"https://api.data.belajar.id/data-portal-backend/v1\"\n        self.request_count = 0\n        self.request_limit = 150\n        self.cooldown_minutes = 3\n        self.retry_handler = RetryHandler()\n    def _make_request(self, url: str, params: Dict[str, Any] = None) -> Dict[str, Any]:\n        def _do_request():\n            self.request_count += 1",
+        "detail": "src.api.utils.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.api.utils.api_client",
+        "description": "src.api.utils.api_client",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass APIClient:\n    def __init__(self):\n        self.base_url = \"https://api.data.belajar.id/data-portal-backend/v1\"\n        self.request_count = 0\n        self.request_limit = 150\n        self.cooldown_minutes = 3\n        self.retry_handler = RetryHandler()\n    def _make_request(self, url: str, params: Dict[str, Any] = None) -> Dict[str, Any]:\n        def _do_request():",
+        "detail": "src.api.utils.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "kind": 6,
+        "importPath": "src.api.utils.exceptions",
+        "description": "src.api.utils.exceptions",
+        "peekOfCode": "class ValidationError(Exception):\n    pass\nclass RetryableError(Exception):\n    def __init__(self, message: str, status_code: int):\n        self.status_code = status_code\n        super().__init__(message)\nclass MaxRetriesExceededError(Exception):\n    pass",
+        "detail": "src.api.utils.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "RetryableError",
+        "kind": 6,
+        "importPath": "src.api.utils.exceptions",
+        "description": "src.api.utils.exceptions",
+        "peekOfCode": "class RetryableError(Exception):\n    def __init__(self, message: str, status_code: int):\n        self.status_code = status_code\n        super().__init__(message)\nclass MaxRetriesExceededError(Exception):\n    pass",
+        "detail": "src.api.utils.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "MaxRetriesExceededError",
+        "kind": 6,
+        "importPath": "src.api.utils.exceptions",
+        "description": "src.api.utils.exceptions",
+        "peekOfCode": "class MaxRetriesExceededError(Exception):\n    pass",
+        "detail": "src.api.utils.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "generate_filename",
+        "kind": 2,
+        "importPath": "src.api.utils.file_naming",
+        "description": "src.api.utils.file_naming",
+        "peekOfCode": "def generate_filename(\n    data_type: str, data_id: Optional[str], district_cd: Optional[str], job_id: int\n) -> str:\n    \"\"\"Generate filename for the CSV file based on the data type and IDs\"\"\"\n    base_name = f\"list_{data_type}\"\n    if district_cd:\n        base_name += f\"_{district_cd}\"\n    elif data_id:\n        base_name += f\"_{data_id}\"\n    return f\"{base_name}_{job_id}.csv\"",
+        "detail": "src.api.utils.file_naming",
+        "documentation": {}
+    },
+    {
+        "label": "RetryHandler",
+        "kind": 6,
+        "importPath": "src.api.utils.retry_handler",
+        "description": "src.api.utils.retry_handler",
+        "peekOfCode": "class RetryHandler:\n    def __init__(\n        self,\n        max_retries: int = 5,\n        retry_delay: int = 300,  # 5 minutes in seconds\n        status_codes_to_retry: set = {429},\n    ):\n        self.max_retries = max_retries\n        self.retry_delay = retry_delay\n        self.status_codes_to_retry = status_codes_to_retry",
+        "detail": "src.api.utils.retry_handler",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "src.api.utils.retry_handler",
+        "description": "src.api.utils.retry_handler",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass RetryHandler:\n    def __init__(\n        self,\n        max_retries: int = 5,\n        retry_delay: int = 300,  # 5 minutes in seconds\n        status_codes_to_retry: set = {429},\n    ):\n        self.max_retries = max_retries\n        self.retry_delay = retry_delay",
+        "detail": "src.api.utils.retry_handler",
+        "documentation": {}
+    },
+    {
+        "label": "validate_payload",
+        "kind": 2,
+        "importPath": "src.api.utils.validators",
+        "description": "src.api.utils.validators",
+        "peekOfCode": "def validate_payload(payload: Dict[str, Any]) -> None:\n    # Check required fields\n    for field in REQUIRED_FIELDS:\n        if field not in payload:\n            raise ValidationError(f\"Missing required field: {field}\")\n    # Validate data type\n    if payload[\"type\"] not in VALID_TYPES:\n        raise ValidationError(f\"Invalid type. Must be one of: {', '.join(VALID_TYPES)}\")\n    # Validate job_id format\n    try:",
+        "detail": "src.api.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRED_FIELDS",
+        "kind": 5,
+        "importPath": "src.api.utils.validators",
+        "description": "src.api.utils.validators",
+        "peekOfCode": "REQUIRED_FIELDS = [\n    \"project_id\",\n    \"gcs_bucket\",\n    \"gcs_folder\",\n    \"job_id\",\n    \"business_id\",\n    \"type\",\n]\nVALID_TYPES = [\"provinsi\", \"kabupaten\", \"kecamatan\", \"school\"]\ndef validate_payload(payload: Dict[str, Any]) -> None:",
+        "detail": "src.api.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "VALID_TYPES",
+        "kind": 5,
+        "importPath": "src.api.utils.validators",
+        "description": "src.api.utils.validators",
+        "peekOfCode": "VALID_TYPES = [\"provinsi\", \"kabupaten\", \"kecamatan\", \"school\"]\ndef validate_payload(payload: Dict[str, Any]) -> None:\n    # Check required fields\n    for field in REQUIRED_FIELDS:\n        if field not in payload:\n            raise ValidationError(f\"Missing required field: {field}\")\n    # Validate data type\n    if payload[\"type\"] not in VALID_TYPES:\n        raise ValidationError(f\"Invalid type. Must be one of: {', '.join(VALID_TYPES)}\")\n    # Validate job_id format",
+        "detail": "src.api.utils.validators",
+        "documentation": {}
+    },
+    {
+        "label": "processor",
+        "kind": 5,
+        "importPath": "src.api.api_test",
+        "description": "src.api.api_test",
+        "peekOfCode": "processor = DataProcessor(\n    project_id=\"idf-corp-dev\",\n    gcs_bucket=\"src_ext_data\",\n    gcs_folder=\"kemdikbud_satpen\",\n    job_id=20241227163638,\n    business_id=\"satpen\",\n    data_type=\"kabupaten\",\n    data_id=None,\n    district_cd=None,\n)",
+        "detail": "src.api.api_test",
+        "documentation": {}
+    },
+    {
+        "label": "result",
+        "kind": 5,
+        "importPath": "src.api.api_test",
+        "description": "src.api.api_test",
+        "peekOfCode": "result = processor.process()",
+        "detail": "src.api.api_test",
+        "documentation": {}
+    },
+    {
+        "label": "process_data",
+        "kind": 2,
+        "importPath": "src.api.app",
+        "description": "src.api.app",
+        "peekOfCode": "def process_data():\n    try:\n        payload = request.get_json()\n        validate_payload(payload)\n        processor = DataProcessor(\n            project_id=payload[\"project_id\"],\n            gcs_bucket=payload[\"gcs_bucket\"],\n            gcs_folder=payload[\"gcs_folder\"],\n            job_id=payload[\"job_id\"],\n            business_id=payload[\"business_id\"],",
+        "detail": "src.api.app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.api.app",
+        "description": "src.api.app",
+        "peekOfCode": "app = Flask(__name__)\n@app.route(\"/api/process\", methods=[\"POST\"])\ndef process_data():\n    try:\n        payload = request.get_json()\n        validate_payload(payload)\n        processor = DataProcessor(\n            project_id=payload[\"project_id\"],\n            gcs_bucket=payload[\"gcs_bucket\"],\n            gcs_folder=payload[\"gcs_folder\"],",
+        "detail": "src.api.app",
+        "documentation": {}
+    },
+    {
+        "label": "APIClient",
+        "kind": 6,
+        "importPath": "src.api_client",
+        "description": "src.api_client",
+        "peekOfCode": "class APIClient:\n    def __init__(self):\n        self.base_url = \"https://api.data.belajar.id/data-portal-backend/v1\"\n        self.rate_limiter = RateLimiter()\n        self.default_params = {\"sortBy\": \"bentuk_pendidikan\", \"sortDir\": \"asc\"}\n    def _make_request(self, url: str, params: dict = None) -> Optional[dict]:\n        self.rate_limiter.check_and_wait()\n        if params:\n            query_string = urllib.parse.urlencode({**self.default_params, **params})\n            url = f\"{url}?{query_string}\"",
+        "detail": "src.api_client",
+        "documentation": {}
+    },
+    {
+        "label": "BigQueryClient",
+        "kind": 6,
+        "importPath": "src.bigquery_client",
+        "description": "src.bigquery_client",
+        "peekOfCode": "class BigQueryClient:\n    def __init__(self):\n        self.client = bigquery.Client()\n        self.dataset_id = \"school_data\"\n    def _ensure_tables_exist(self):\n        dataset_ref = self.client.dataset(self.dataset_id)\n        schemas = {\n            \"provinces\": [\n                bigquery.SchemaField(\"code\", \"STRING\"),\n                bigquery.SchemaField(\"name\", \"STRING\"),",
+        "detail": "src.bigquery_client",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_URL",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "BASE_URL = \"https://api.data.belajar.id/data-portal-backend/v1\"\nWEB_URL = \"https://data.kemdikbud.go.id/data-induk/satpen\"\nDEFAULT_PARAMS = {\"sortBy\": \"bentuk_pendidikan\", \"sortDir\": \"asc\"}",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "WEB_URL",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "WEB_URL = \"https://data.kemdikbud.go.id/data-induk/satpen\"\nDEFAULT_PARAMS = {\"sortBy\": \"bentuk_pendidikan\", \"sortDir\": \"asc\"}",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_PARAMS",
+        "kind": 5,
+        "importPath": "src.config",
+        "description": "src.config",
+        "peekOfCode": "DEFAULT_PARAMS = {\"sortBy\": \"bentuk_pendidikan\", \"sortDir\": \"asc\"}",
+        "detail": "src.config",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_provinces",
+        "kind": 2,
+        "importPath": "src.data_fetcher",
+        "description": "src.data_fetcher",
+        "peekOfCode": "def fetch_provinces():\n    \"\"\"Fetch all provinces data\"\"\"\n    url = f\"{BASE_URL}/master-data/satuan-pendidikan/statistics/0/descendants\"\n    data = make_request(url, DEFAULT_PARAMS)\n    return data.get(\"data\", []) if data else []\ndef fetch_kabupatens(province_id):\n    \"\"\"Fetch all kabupatens for a given province\"\"\"\n    url = (\n        f\"{BASE_URL}/master-data/satuan-pendidikan/statistics/{province_id}/descendants\"\n    )",
+        "detail": "src.data_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_kabupatens",
+        "kind": 2,
+        "importPath": "src.data_fetcher",
+        "description": "src.data_fetcher",
+        "peekOfCode": "def fetch_kabupatens(province_id):\n    \"\"\"Fetch all kabupatens for a given province\"\"\"\n    url = (\n        f\"{BASE_URL}/master-data/satuan-pendidikan/statistics/{province_id}/descendants\"\n    )\n    data = make_request(url, DEFAULT_PARAMS)\n    return data.get(\"data\", []) if data else []\ndef fetch_kecamatans(kabupaten_id):\n    \"\"\"Fetch all kecamatans for a given kabupaten\"\"\"\n    url = f\"{BASE_URL}/master-data/satuan-pendidikan/statistics/{kabupaten_id}/descendants\"",
+        "detail": "src.data_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_kecamatans",
+        "kind": 2,
+        "importPath": "src.data_fetcher",
+        "description": "src.data_fetcher",
+        "peekOfCode": "def fetch_kecamatans(kabupaten_id):\n    \"\"\"Fetch all kecamatans for a given kabupaten\"\"\"\n    url = f\"{BASE_URL}/master-data/satuan-pendidikan/statistics/{kabupaten_id}/descendants\"\n    data = make_request(url, DEFAULT_PARAMS)\n    return data.get(\"data\", []) if data else []",
+        "detail": "src.data_fetcher",
+        "documentation": {}
+    },
+    {
+        "label": "DataWriter",
+        "kind": 6,
+        "importPath": "src.data_writer",
+        "description": "src.data_writer",
+        "peekOfCode": "class DataWriter:\n    def write_provinces(self, provinces: List[Province], filename: str):\n        with open(filename, \"w\", newline=\"\") as f:\n            writer = csv.writer(f)\n            writer.writerow([\"code\", \"name\"])\n            writer.writerows([[p.code, p.name] for p in provinces])\n    def write_kabupatens(self, kabupatens: List[Kabupaten], filename: str):\n        with open(filename, \"w\", newline=\"\") as f:\n            writer = csv.writer(f)\n            writer.writerow([\"code\", \"name\", \"province_code\"])",
+        "detail": "src.data_writer",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_kecamatan",
+        "kind": 2,
+        "importPath": "src.fetch_kecamatan",
+        "description": "src.fetch_kecamatan",
+        "peekOfCode": "def fetch_kecamatan(kabupaten_id):\n    base_url = \"https://api.data.belajar.id/data-portal-backend/v1\"\n    url = f\"{base_url}/master-data/satuan-pendidikan/statistics/{kabupaten_id}/descendants\"\n    params = {\"sortBy\": \"bentuk_pendidikan\", \"sortDir\": \"asc\"}\n    # Construct query string\n    query_string = urllib.parse.urlencode(params)\n    full_url = f\"{url}?{query_string}\"\n    try:\n        with urllib.request.urlopen(full_url) as response:\n            data = json.loads(response.read().decode())",
+        "detail": "src.fetch_kecamatan",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.fetch_kecamatan",
+        "description": "src.fetch_kecamatan",
+        "peekOfCode": "def main():\n    kabupaten_id = \"220000\"  # Example kabupaten ID\n    data = fetch_kecamatan(kabupaten_id)\n    if data and \"data\" in data:\n        print(\"\\nKecamatan List:\")\n        for item in data[\"data\"]:\n            print(f\"Kecamatan ID: {item.get('kode_wilayah')}, Name: {item.get('nama')}\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "src.fetch_kecamatan",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def main():\n    api_client = APIClient()\n    data_writer = DataWriter()\n    bq_client = BigQueryClient()\n    # Get processed IDs from BigQuery\n    processed_provinces = bq_client.get_processed_provinces()\n    # Get all provinces\n    print(\"Fetching provinces...\")\n    provinces = api_client.get_provinces()\n    # Filter out already processed provinces",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "Province",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class Province:\n    code: str\n    name: str\n@dataclass\nclass Kabupaten:\n    code: str\n    name: str\n    province_code: str\n@dataclass\nclass Kecamatan:",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "Kabupaten",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class Kabupaten:\n    code: str\n    name: str\n    province_code: str\n@dataclass\nclass Kecamatan:\n    code: str\n    name: str\n    kabupaten_code: str\n@dataclass",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "Kecamatan",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class Kecamatan:\n    code: str\n    name: str\n    kabupaten_code: str\n@dataclass\nclass School:\n    npsn: str\n    name: str\n    kecamatan_code: str",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "School",
+        "kind": 6,
+        "importPath": "src.models",
+        "description": "src.models",
+        "peekOfCode": "class School:\n    npsn: str\n    name: str\n    kecamatan_code: str",
+        "detail": "src.models",
+        "documentation": {}
+    },
+    {
+        "label": "RateLimiter",
+        "kind": 6,
+        "importPath": "src.rate_limiter",
+        "description": "src.rate_limiter",
+        "peekOfCode": "class RateLimiter:\n    def __init__(self, request_limit=150, cooldown_minutes=3):\n        self.request_count = 0\n        self.request_limit = request_limit\n        self.cooldown_minutes = cooldown_minutes\n        self.last_reset = datetime.now()\n    def check_and_wait(self):\n        current_time = datetime.now()\n        self.request_count += 1\n        if self.request_count >= self.request_limit:",
+        "detail": "src.rate_limiter",
+        "documentation": {}
+    },
+    {
+        "label": "make_request",
+        "kind": 2,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "def make_request(url, params=None):\n    rate_limiter.check_and_wait()\n    if params:\n        query_string = urllib.parse.urlencode(params)\n        url = f\"{url}?{query_string}\"\n    try:\n        with urllib.request.urlopen(url) as response:\n            return json.loads(response.read().decode())\n    except urllib.error.URLError as e:\n        print(f\"Error fetching data: {e}\")",
+        "detail": "src.utils",
+        "documentation": {}
+    },
+    {
+        "label": "rate_limiter",
+        "kind": 5,
+        "importPath": "src.utils",
+        "description": "src.utils",
+        "peekOfCode": "rate_limiter = RateLimiter(request_limit=150, cooldown_minutes=3)\ndef make_request(url, params=None):\n    rate_limiter.check_and_wait()\n    if params:\n        query_string = urllib.parse.urlencode(params)\n        url = f\"{url}?{query_string}\"\n    try:\n        with urllib.request.urlopen(url) as response:\n            return json.loads(response.read().decode())\n    except urllib.error.URLError as e:",
+        "detail": "src.utils",
+        "documentation": {}
+    }
+]
